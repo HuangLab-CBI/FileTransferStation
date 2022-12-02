@@ -1,0 +1,3 @@
+[
+{"study_accession":"PRJNA128989","sample_accession":"SAMN00014677","experiment_accession":"SRX021906","run_accession":"SRR057406","tax_id":"4565","scientific_name":"Triticum aestivum","library_layout":"SINGLE","library_strategy":"RNA-Seq","library_source":"TRANSCRIPTOMIC","library_selection":"size fractionation","experiment_title":"Illumina Genome Analyzer sequencing; GSM548032: NAM-RNAi_sRNA_library","fastq_md5":"6302f98f730754e6b7c88db34958db32","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR057/SRR057406/SRR057406.fastq.gz","fastq_aspera":"fasp.sra.ebi.ac.uk:/vol1/fastq/SRR057/SRR057406/SRR057406.fastq.gz","submitted_ftp":"","sra_ftp":"ftp.sra.ebi.ac.uk/vol1/srr/SRR057/SRR057406"}
+]
